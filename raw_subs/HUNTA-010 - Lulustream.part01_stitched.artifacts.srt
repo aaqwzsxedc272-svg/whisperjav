@@ -1,0 +1,3179 @@
+1
+00:00:00,000 --> 00:00:05,000
+[SANITIZATION SUMMARY]
+
+Original subtitles: 2184
+
+Hallucinations modified/removed: 402
+
+Repetitions modified/removed: 4
+
+Total artifact entries: 514
+
+Final subtitles: 1713
+
+Config: balanced
+
+2
+00:00:42,900 --> 00:00:43,420
+[REMOVED - Hallucination]
+Original: えぇ〜
+Category: hallucination | Confidence: 1.00
+
+3
+00:00:55,880 --> 00:00:56,280
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+4
+00:01:25,800 --> 00:01:26,180
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+5
+00:02:41,090 --> 00:02:43,150
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: 遅い
+Category: content_cleaning_cps | Confidence: 1.00
+
+6
+00:03:31,660 --> 00:03:32,800
+[REMOVED - Hallucination]
+Original: あ、あっ…
+Category: hallucination | Confidence: 1.00
+
+7
+00:03:37,380 --> 00:03:38,140
+[REMOVED - Hallucination]
+Original: え!?
+Category: hallucination | Confidence: 1.00
+
+8
+00:05:43,770 --> 00:05:44,410
+[REMOVED - Hallucination]
+Original: ちょっと…
+Category: hallucination | Confidence: 1.00
+
+9
+00:06:06,018 --> 00:06:09,458
+[REMOVED - Hallucination]
+Original: すみません
+Category: hallucination | Confidence: 1.00
+
+10
+00:06:27,018 --> 00:06:27,358
+[REMOVED - Abnormally Fast Cps 41.2]
+Original: あなたは何をしているんですか
+Category: content_cleaning_cps | Confidence: 1.00
+
+11
+00:06:53,518 --> 00:06:55,338
+[REMOVED - Hallucination]
+Original: あははは
+Category: hallucination | Confidence: 1.00
+
+12
+00:08:08,022 --> 00:08:09,102
+[REMOVED - Abnormally Slow Cps 0.9]
+Original: 鍵
+Category: content_cleaning_cps | Confidence: 1.00
+
+13
+00:12:37,994 --> 00:12:38,614
+[REMOVED - Hallucination]
+Original: お母さん
+Category: hallucination | Confidence: 1.00
+
+14
+00:12:47,938 --> 00:12:48,228
+[REMOVED - Hallucination]
+Original: えー!
+Category: hallucination | Confidence: 1.00
+
+15
+00:14:49,476 --> 00:14:51,636
+[REMOVED - Hallucination]
+Original: お疲れ様です!
+Category: hallucination | Confidence: 1.00
+
+16
+00:18:03,788 --> 00:18:04,228
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+17
+00:18:04,628 --> 00:18:05,988
+[REMOVED - Hallucination]
+Original: 今 やる??
+Category: nonsensical | Confidence: 0.90
+
+18
+00:19:26,448 --> 00:19:28,968
+[REMOVED - Hallucination]
+Original: おばあちゃん
+Category: hallucination | Confidence: 1.00
+
+19
+00:20:19,082 --> 00:20:19,602
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+20
+00:20:45,022 --> 00:20:45,562
+[REMOVED - Hallucination]
+Original: はい!
+Category: hallucination | Confidence: 1.00
+
+21
+00:21:27,472 --> 00:21:42,202
+[TIMING MODIFIED - Duration Hallucination]
+Original: おうさまだーんだ!
+Modified: おうさまだーんだ!
+Duration: 14.73s -> 1.28s
+Category: timing_adjustment | Confidence: 1.00
+
+22
+00:21:42,202 --> 00:21:43,002
+[REMOVED - Hallucination]
+Original: はい。
+Category: hallucination | Confidence: 1.00
+
+23
+00:22:56,082 --> 00:22:56,402
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+24
+00:22:59,602 --> 00:22:59,742
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+25
+00:23:31,522 --> 00:23:32,462
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+26
+00:24:24,206 --> 00:24:25,726
+[REMOVED - Hallucination]
+Original: え!?僕も??
+Category: nonsensical | Confidence: 0.90
+
+27
+00:24:29,226 --> 00:24:30,606
+[MODIFIED - Regex Partial Strip]
+Original: 笑いが止まりません
+Modified: いが止まりません
+Category: sound_effect | Confidence: 0.90
+
+28
+00:25:11,786 --> 00:25:12,326
+[REMOVED - Hallucination]
+Original: おー
+Category: hallucination | Confidence: 1.00
+
+29
+00:25:15,566 --> 00:25:15,826
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+30
+00:26:18,192 --> 00:26:18,412
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+31
+00:27:33,682 --> 00:27:35,122
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+32
+00:27:58,902 --> 00:27:59,822
+[REMOVED - Hallucination]
+Original: はい。
+Category: hallucination | Confidence: 1.00
+
+33
+00:28:18,882 --> 00:28:19,422
+[REMOVED - Hallucination]
+Original: あー!
+Category: hallucination | Confidence: 1.00
+
+34
+00:29:46,964 --> 00:29:47,164
+[REMOVED - Hallucination]
+Original: はい。
+Category: hallucination | Confidence: 1.00
+
+35
+00:31:01,142 --> 00:31:01,642
+[REMOVED - Hallucination]
+Original: 1
+Category: hallucination | Confidence: 1.00
+
+36
+00:31:02,382 --> 00:31:02,882
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+37
+00:31:06,512 --> 00:31:07,962
+[REMOVED - Hallucination]
+Original: おー
+Category: hallucination | Confidence: 1.00
+
+38
+00:31:24,942 --> 00:31:29,402
+[REMOVED - Hallucination]
+Original: 小島ってもしかして整えてる??
+Category: nonsensical | Confidence: 0.90
+
+39
+00:33:24,602 --> 00:33:25,342
+[REMOVED - Hallucination]
+Original: えぇ〜
+Category: hallucination | Confidence: 1.00
+
+40
+00:33:44,402 --> 00:33:46,582
+[REMOVED - Hallucination]
+Original: えっ! 誰ですか??
+Category: nonsensical | Confidence: 0.90
+
+41
+00:34:23,752 --> 00:34:24,252
+[REMOVED - Hallucination]
+Original: yeah
+Category: nonsensical | Confidence: 0.85
+
+42
+00:34:25,372 --> 00:34:25,652
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+43
+00:36:08,614 --> 00:36:09,294
+[REMOVED - Hallucination]
+Original: へー
+Category: hallucination | Confidence: 1.00
+
+44
+00:39:38,820 --> 00:39:39,420
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+45
+00:39:39,420 --> 00:39:48,790
+[REMOVED - Abnormally Slow Cps 0.4]
+Original: うそかー
+Category: content_cleaning_cps | Confidence: 1.00
+
+46
+00:40:50,680 --> 00:40:51,000
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+47
+00:41:29,048 --> 00:41:29,448
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+48
+00:44:55,756 --> 00:45:11,286
+[TIMING MODIFIED - Duration Hallucination]
+Original: 飲めばいいんだね
+Modified: 飲めばいいんだね
+Duration: 15.53s -> 1.14s
+Category: timing_adjustment | Confidence: 1.00
+
+49
+00:45:36,922 --> 00:45:38,642
+[MODIFIED - Regex Partial Strip]
+Original: なんかめっちゃ笑った。
+Modified: なんかめっちゃった。
+Category: sound_effect | Confidence: 0.90
+
+50
+00:46:02,202 --> 00:46:03,722
+[REMOVED - Hallucination]
+Original: あははは!
+Category: hallucination | Confidence: 1.00
+
+51
+00:47:02,942 --> 00:47:03,042
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+52
+00:48:58,712 --> 00:48:59,072
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+53
+00:51:51,360 --> 00:51:51,760
+[REMOVED - Hallucination]
+Original: ええ
+Category: hallucination | Confidence: 1.00
+
+54
+00:51:56,540 --> 00:51:57,560
+[REMOVED - Hallucination]
+Original: あ…
+Category: hallucination | Confidence: 1.00
+
+55
+00:52:13,110 --> 00:52:13,550
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+56
+00:52:23,050 --> 00:52:23,490
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+57
+00:52:40,410 --> 00:52:40,610
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+58
+00:53:13,150 --> 00:53:24,750
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: どうしたんですか?
+Modified: どうしたんですか?
+Duration: 11.60s -> 1.28s
+Category: timing_adjustment | Confidence: 1.00
+
+59
+00:54:10,260 --> 00:54:11,550
+[REMOVED - Hallucination]
+Original: 気持ちいい
+Category: hallucination | Confidence: 1.00
+
+60
+00:54:32,540 --> 00:54:33,080
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+61
+00:55:08,348 --> 00:55:15,268
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: おっぱいつ
+Modified: おっぱいつ
+Duration: 6.92s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+62
+00:55:28,858 --> 00:55:35,898
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: あ〜嬉しい
+Modified: あ〜嬉しい
+Duration: 7.04s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+63
+00:55:40,178 --> 00:55:53,258
+[TIMING MODIFIED - Duration Hallucination]
+Original: これとなったらいいおばしますよね
+Modified: これとなったらいいおばしますよね
+Duration: 13.08s -> 2.29s
+Category: timing_adjustment | Confidence: 1.00
+
+64
+00:57:48,488 --> 00:58:09,598
+[TIMING MODIFIED - Duration Hallucination]
+Original: 今度は…え?
+Modified: 今度は…え?
+Duration: 21.11s -> 0.86s
+Category: timing_adjustment | Confidence: 1.00
+
+65
+00:58:15,078 --> 00:58:15,518
+[REMOVED - Hallucination]
+Original: んー
+Category: hallucination | Confidence: 1.00
+
+66
+00:59:10,748 --> 00:59:41,978
+[TIMING MODIFIED - Duration Hallucination]
+Original: 2人とも上手ですよ
+Modified: 2人とも上手ですよ
+Duration: 31.23s -> 1.28s
+Category: timing_adjustment | Confidence: 1.00
+
+67
+01:00:22,898 --> 01:00:23,178
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+68
+01:00:24,218 --> 01:00:24,498
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+69
+01:00:46,658 --> 01:00:54,838
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: そう 2人とも
+Modified: そう 2人とも
+Duration: 8.18s -> 1.00s
+Category: timing_adjustment | Confidence: 1.00
+
+70
+01:02:14,468 --> 01:02:15,808
+[REMOVED - Hallucination]
+Original: んっ!
+Category: hallucination | Confidence: 1.00
+
+71
+01:02:32,982 --> 01:02:33,222
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+72
+01:02:33,222 --> 01:02:34,522
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+73
+01:03:23,542 --> 01:03:24,242
+[REMOVED - Hallucination]
+Original: th
+Category: nonsensical | Confidence: 0.85
+
+74
+01:03:29,532 --> 01:03:30,932
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+75
+01:03:40,802 --> 01:04:03,572
+[TIMING MODIFIED - Duration Hallucination]
+Original: お母さんの顔を見せてください。
+Modified: お母さんの顔を見せてください。
+Duration: 22.77s -> 2.14s
+Category: timing_adjustment | Confidence: 1.00
+
+76
+01:04:03,572 --> 01:04:03,612
+[REMOVED - Abnormally Fast Cps 100.0]
+Original: 大丈夫?
+Category: content_cleaning_cps | Confidence: 1.00
+
+77
+01:04:24,412 --> 01:04:45,682
+[TIMING MODIFIED - Duration Hallucination]
+Original: 娘「ちょっと待ってください…」
+Modified: 娘「ちょっと待ってください…」
+Duration: 21.27s -> 2.14s
+Category: timing_adjustment | Confidence: 1.00
+
+78
+01:05:05,652 --> 01:05:12,002
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: おばけさん
+Modified: おばけさん
+Duration: 6.35s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+79
+01:05:55,492 --> 01:05:56,972
+[REMOVED - Hallucination]
+Original: 【早送り中】
+Category: context_caption | Confidence: 1.00
+
+80
+01:06:18,912 --> 01:06:25,472
+[REMOVED - Hallucination]
+Original: 【はじめしゃちょーエンディング】
+Category: context_caption | Confidence: 1.00
+
+81
+01:06:30,520 --> 01:06:30,620
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+82
+01:06:30,620 --> 01:06:32,740
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+83
+01:06:33,960 --> 01:06:45,130
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: 持ってください
+Modified: 持ってください
+Duration: 11.17s -> 1.00s
+Category: timing_adjustment | Confidence: 1.00
+
+84
+01:06:49,310 --> 01:06:51,410
+[REMOVED - Hallucination]
+Original: う
+Category: hallucination | Confidence: 1.00
+
+85
+01:07:11,690 --> 01:07:12,750
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+86
+01:07:44,570 --> 01:07:50,750
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: あ、苦しい
+Modified: あ、苦しい
+Duration: 6.18s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+87
+01:08:09,180 --> 01:08:09,620
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+88
+01:09:03,040 --> 01:09:21,610
+[TIMING MODIFIED - Duration Hallucination]
+Original: 出してくれ
+Modified: 出してくれ
+Duration: 18.57s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+89
+01:10:54,176 --> 01:10:56,996
+[REMOVED - Hallucination]
+Original: 【早送り中…】
+Category: context_caption | Confidence: 1.00
+
+90
+01:12:10,786 --> 01:12:11,086
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+91
+01:13:27,186 --> 01:13:28,186
+[REMOVED - Hallucination]
+Original: えー
+Category: hallucination | Confidence: 1.00
+
+92
+01:14:23,056 --> 01:14:25,696
+[REMOVED - Abnormally Slow Cps 0.8]
+Original: うま
+Category: content_cleaning_cps | Confidence: 1.00
+
+93
+01:14:33,168 --> 01:14:51,178
+[REMOVED - Hallucination]
+Original: ★ごきげんよう、また見てね★
+Category: context_caption | Confidence: 1.00
+
+94
+01:15:12,294 --> 01:15:12,674
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+95
+01:15:37,544 --> 01:15:38,024
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+96
+01:16:35,312 --> 01:17:01,752
+[TIMING MODIFIED - Duration Hallucination]
+Original: 犬「おやすみなさい、マネージャーさん…。 猫は大きいのに……。 チョコレートを食べてるんだよ!」
+Modified: 犬「おやすみなさい、マネージャーさん…。 猫は大きいのに……。 チョコレートを食べてるんだよ!」
+Duration: 26.44s -> 6.86s
+Category: timing_adjustment | Confidence: 1.00
+
+97
+01:17:01,752 --> 01:17:18,632
+[TIMING MODIFIED - Duration Hallucination]
+Original: 娘、「あんたも一緒だね!笑顔で遊んでくれるわけじゃないか?」
+Modified: 娘、「あんたも一緒だね!顔で遊んでくれるわけじゃないか?」
+Duration: 16.88s -> 4.14s
+Category: timing_adjustment | Confidence: 1.00
+
+98
+01:17:01,752 --> 01:17:18,632
+[MODIFIED - Regex Partial Strip]
+Original: 娘、「あんたも一緒だね!笑顔で遊んでくれるわけじゃないか?」
+Modified: 娘、「あんたも一緒だね!顔で遊んでくれるわけじゃないか?」
+Category: sound_effect | Confidence: 0.90
+
+99
+01:17:25,558 --> 01:17:27,558
+[REMOVED - Hallucination]
+Original: うわぁ
+Category: hallucination | Confidence: 1.00
+
+100
+01:17:39,548 --> 01:17:45,508
+[REMOVED - Abnormally Slow Cps 0.3]
+Original: わぁ
+Category: content_cleaning_cps | Confidence: 1.00
+
+101
+01:18:06,428 --> 01:18:09,488
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: やだ〜
+Category: content_cleaning_cps | Confidence: 1.00
+
+102
+01:18:19,568 --> 01:18:31,948
+[TIMING MODIFIED - Duration Hallucination]
+Original: 娘「あ、すいません…」
+Modified: 娘「あ、すいません…」
+Duration: 12.38s -> 1.57s
+Category: timing_adjustment | Confidence: 1.00
+
+103
+01:18:44,888 --> 01:18:44,908
+[REMOVED - Abnormally Fast Cps 150.0]
+Original: 二人で
+Category: content_cleaning_cps | Confidence: 1.00
+
+104
+01:19:22,548 --> 01:19:24,628
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: 女性
+Category: content_cleaning_cps | Confidence: 1.00
+
+105
+01:19:24,668 --> 01:19:25,668
+[REMOVED - Hallucination]
+Original: おぉー
+Category: hallucination | Confidence: 1.00
+
+106
+01:19:26,988 --> 01:19:28,448
+[REMOVED - Hallucination]
+Original: んっ
+Category: hallucination | Confidence: 1.00
+
+107
+01:19:30,538 --> 01:19:31,478
+[REMOVED - Hallucination]
+Original: うぅ
+Category: hallucination | Confidence: 1.00
+
+108
+01:19:57,848 --> 01:19:59,188
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+109
+01:20:20,248 --> 01:20:20,928
+[REMOVED - Hallucination]
+Original: ふふふ
+Category: hallucination | Confidence: 1.00
+
+110
+01:20:20,928 --> 01:20:22,188
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+111
+01:20:24,908 --> 01:20:37,608
+[REMOVED - Hallucination]
+Original: えぇ
+Category: hallucination | Confidence: 1.00
+
+112
+01:20:37,608 --> 01:20:38,128
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+113
+01:20:38,128 --> 01:20:39,968
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+114
+01:20:44,618 --> 01:20:46,718
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+115
+01:20:47,338 --> 01:20:52,318
+[REMOVED - Abnormally Slow Cps 0.4]
+Original: ほぉ
+Category: content_cleaning_cps | Confidence: 1.00
+
+116
+01:20:52,318 --> 01:20:53,558
+[REMOVED - Hallucination]
+Original: はぁ…
+Category: hallucination | Confidence: 1.00
+
+117
+01:20:53,558 --> 01:20:54,778
+[REMOVED - Hallucination]
+Original: うぅん
+Category: hallucination | Confidence: 1.00
+
+118
+01:20:54,778 --> 01:20:54,918
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+119
+01:21:01,428 --> 01:21:08,908
+[REMOVED - Abnormally Slow Cps 0.5]
+Original: すっごい
+Category: content_cleaning_cps | Confidence: 1.00
+
+120
+01:21:09,848 --> 01:21:10,488
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+121
+01:21:11,288 --> 01:21:11,928
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+122
+01:21:12,258 --> 01:21:12,698
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+123
+01:21:57,962 --> 01:22:03,122
+[REMOVED - Hallucination]
+Original: ★おうくん、気持ちいいね・・・★
+Category: context_caption | Confidence: 1.00
+
+124
+01:22:15,482 --> 01:22:15,742
+[REMOVED - Hallucination]
+Original: あ゛っ!
+Category: hallucination | Confidence: 1.00
+
+125
+01:22:17,082 --> 01:22:17,862
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+126
+01:22:20,082 --> 01:22:21,022
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+127
+01:22:21,602 --> 01:22:22,142
+[REMOVED - Hallucination]
+Original: うっ
+Category: hallucination | Confidence: 1.00
+
+128
+01:22:22,142 --> 01:22:23,102
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+129
+01:22:25,162 --> 01:22:26,402
+[REMOVED - Hallucination]
+Original: アーッ
+Category: hallucination | Confidence: 1.00
+
+130
+01:22:26,982 --> 01:22:27,722
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+131
+01:22:34,222 --> 01:22:34,682
+[REMOVED - Hallucination]
+Original: は
+Category: hallucination | Confidence: 1.00
+
+132
+01:23:11,262 --> 01:23:12,042
+[REMOVED - Hallucination]
+Original: ハ
+Category: hallucination | Confidence: 1.00
+
+133
+01:23:12,042 --> 01:23:12,202
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+134
+01:23:12,202 --> 01:23:12,482
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+135
+01:23:16,582 --> 01:23:18,302
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+136
+01:23:28,682 --> 01:23:29,222
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+137
+01:23:37,502 --> 01:23:38,582
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+138
+01:23:38,682 --> 01:23:38,802
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+139
+01:23:38,802 --> 01:23:38,862
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+140
+01:23:39,522 --> 01:23:39,882
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+141
+01:23:41,282 --> 01:23:41,962
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+142
+01:23:43,242 --> 01:23:43,962
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+143
+01:23:43,962 --> 01:23:44,242
+[REMOVED - Hallucination]
+Original: おっ
+Category: hallucination | Confidence: 1.00
+
+144
+01:23:46,162 --> 01:23:46,722
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+145
+01:23:52,404 --> 01:23:53,164
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+146
+01:23:53,814 --> 01:23:55,714
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+147
+01:23:57,354 --> 01:23:59,454
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+148
+01:23:59,454 --> 01:24:01,294
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+149
+01:24:08,464 --> 01:24:09,864
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+150
+01:24:09,864 --> 01:24:09,904
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+151
+01:24:40,934 --> 01:24:42,274
+[REMOVED - Hallucination]
+Original: また、ね
+Category: hallucination | Confidence: 1.00
+
+152
+01:25:45,898 --> 01:25:46,258
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+153
+01:26:19,356 --> 01:26:20,316
+[REMOVED - Hallucination]
+Original: none
+Category: nonsensical | Confidence: 0.85
+
+154
+01:26:22,516 --> 01:26:22,996
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+155
+01:26:38,548 --> 01:26:39,068
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+156
+01:27:49,628 --> 01:27:50,048
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+157
+01:29:23,644 --> 01:29:24,684
+[REMOVED - Hallucination]
+Original: あのー
+Category: hallucination | Confidence: 1.00
+
+158
+01:30:07,702 --> 01:30:08,262
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+159
+01:30:17,042 --> 01:30:17,642
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+160
+01:30:22,812 --> 01:30:22,992
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+161
+01:31:01,512 --> 01:31:08,002
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: ちゃんとみて
+Modified: ちゃんとみて
+Duration: 6.49s -> 0.86s
+Category: timing_adjustment | Confidence: 1.00
+
+162
+01:31:19,794 --> 01:31:19,994
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+163
+01:33:09,164 --> 01:33:09,244
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+164
+01:33:09,244 --> 01:33:41,744
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+165
+01:33:49,634 --> 01:33:50,714
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+166
+01:33:59,534 --> 01:34:00,934
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+167
+01:34:09,554 --> 01:34:11,214
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+168
+01:34:28,154 --> 01:34:48,294
+[REMOVED - Hallucination]
+Original: お腹が痛い
+Category: hallucination | Confidence: 1.00
+
+169
+01:35:17,656 --> 01:35:18,316
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+170
+01:35:18,316 --> 01:35:19,936
+[REMOVED - Hallucination]
+Original: うぅ
+Category: hallucination | Confidence: 1.00
+
+171
+01:35:19,936 --> 01:35:21,316
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+172
+01:35:25,116 --> 01:35:26,516
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+173
+01:35:30,326 --> 01:35:33,436
+[REMOVED - Abnormally Slow Cps 0.6]
+Original: たて
+Category: content_cleaning_cps | Confidence: 1.00
+
+174
+01:35:33,436 --> 01:35:34,256
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+175
+01:36:52,026 --> 01:36:54,676
+[REMOVED - Hallucination]
+Original: あゝ…
+Category: hallucination | Confidence: 1.00
+
+176
+01:37:39,088 --> 01:37:39,608
+[REMOVED - Hallucination]
+Original: あぁー
+Category: hallucination | Confidence: 1.00
+
+177
+01:37:39,984 --> 01:37:40,404
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+178
+01:37:40,404 --> 01:37:40,544
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+179
+01:37:50,124 --> 01:37:50,784
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+180
+01:37:55,884 --> 01:37:57,884
+[REMOVED - Hallucination]
+Original: あ〜
+Category: hallucination | Confidence: 1.00
+
+181
+01:38:24,254 --> 01:38:24,654
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+182
+01:38:28,194 --> 01:38:30,464
+[REMOVED - Hallucination]
+Original: あーーー
+Category: hallucination | Confidence: 1.00
+
+183
+01:38:31,924 --> 01:38:33,324
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+184
+01:38:33,324 --> 01:38:34,304
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+185
+01:38:34,304 --> 01:38:35,504
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+186
+01:38:40,694 --> 01:38:42,094
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+187
+01:38:43,704 --> 01:38:44,044
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+188
+01:38:44,044 --> 01:39:09,364
+[TIMING MODIFIED - Duration Hallucination]
+Original: いっぱいいる
+Modified: いっぱいいる
+Duration: 25.32s -> 0.86s
+Category: timing_adjustment | Confidence: 1.00
+
+189
+01:39:09,364 --> 01:39:10,524
+[REMOVED - Hallucination]
+Original: はー
+Category: hallucination | Confidence: 1.00
+
+190
+01:39:10,524 --> 01:39:15,484
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+191
+01:41:14,204 --> 01:41:14,884
+[REMOVED - Hallucination]
+Original: 気持ちいい?
+Category: hallucination | Confidence: 1.00
+
+192
+01:41:32,416 --> 01:41:33,056
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+193
+01:41:37,256 --> 01:41:37,876
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+194
+01:41:42,456 --> 01:41:43,696
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+195
+01:41:50,756 --> 01:41:50,836
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+196
+01:43:03,024 --> 01:43:09,524
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: あ、すごい
+Modified: あ、すごい
+Duration: 6.50s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+197
+01:43:10,984 --> 01:43:12,004
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+198
+01:43:12,004 --> 01:43:12,204
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+199
+01:43:14,084 --> 01:43:14,664
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+200
+01:43:19,624 --> 01:43:20,204
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+201
+01:43:28,254 --> 01:43:29,414
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+202
+01:43:31,134 --> 01:43:31,714
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+203
+01:44:36,944 --> 01:44:37,404
+[REMOVED - Hallucination]
+Original: あ…
+Category: hallucination | Confidence: 1.00
+
+204
+01:45:17,554 --> 01:45:20,614
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: 暑い
+Category: content_cleaning_cps | Confidence: 1.00
+
+205
+01:45:24,574 --> 01:45:43,834
+[TIMING MODIFIED - Duration Hallucination]
+Original: 気持ち悪すぎ
+Modified: 気持ち悪すぎ
+Duration: 19.26s -> 0.86s
+Category: timing_adjustment | Confidence: 1.00
+
+206
+01:46:00,182 --> 01:46:24,822
+[TIMING MODIFIED - Duration Hallucination]
+Original: あ〜すっごい気持ちいい
+Modified: あ〜すっごい気持ちいい
+Duration: 24.64s -> 1.57s
+Category: timing_adjustment | Confidence: 1.00
+
+207
+01:46:28,782 --> 01:46:29,402
+[REMOVED - Hallucination]
+Original: ん?
+Category: hallucination | Confidence: 1.00
+
+208
+01:46:30,162 --> 01:46:32,162
+[REMOVED - Hallucination]
+Original: んー
+Category: hallucination | Confidence: 1.00
+
+209
+01:46:42,602 --> 01:46:43,362
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+210
+01:46:43,362 --> 01:46:45,902
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+211
+01:47:18,698 --> 01:47:25,278
+[REMOVED - Abnormally Slow Cps 0.6]
+Original: ダメだめ
+Category: content_cleaning_cps | Confidence: 1.00
+
+212
+01:47:44,098 --> 01:47:44,978
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+213
+01:47:46,858 --> 01:47:47,738
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+214
+01:47:54,538 --> 01:47:55,418
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+215
+01:47:57,718 --> 01:48:02,418
+[REMOVED - Hallucination]
+Original: ああ ああ
+Category: hallucination | Confidence: 1.00
+
+216
+01:48:04,198 --> 01:48:04,258
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+217
+01:48:05,878 --> 01:48:08,418
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+218
+01:48:10,378 --> 01:48:11,178
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+219
+01:48:11,178 --> 01:48:14,418
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+220
+01:48:16,744 --> 01:48:18,144
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+221
+01:48:25,704 --> 01:48:26,404
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+222
+01:48:26,404 --> 01:48:31,624
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+223
+01:48:31,624 --> 01:48:34,004
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+224
+01:48:34,004 --> 01:48:34,564
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+225
+01:48:34,564 --> 01:48:35,984
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+226
+01:48:39,424 --> 01:48:42,224
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+227
+01:48:42,224 --> 01:48:42,644
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+228
+01:48:45,004 --> 01:48:46,404
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+229
+01:48:46,404 --> 01:48:46,744
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+230
+01:48:49,764 --> 01:48:51,164
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+231
+01:48:51,744 --> 01:48:52,624
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+232
+01:48:52,624 --> 01:48:53,964
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+233
+01:48:53,964 --> 01:49:01,224
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+234
+01:49:06,174 --> 01:49:06,874
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+235
+01:49:06,874 --> 01:49:11,954
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+236
+01:49:12,154 --> 01:49:13,334
+[REMOVED - Hallucination]
+Original: お
+Category: hallucination | Confidence: 1.00
+
+237
+01:49:13,334 --> 01:49:16,354
+[MODIFIED - Single Char Whitespace Flood]
+Original: ああ ああ あー
+Modified: ああー
+Category: repetition_cleaning | Confidence: 0.99
+
+238
+01:49:13,334 --> 01:49:16,354
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: ああー
+Category: content_cleaning_cps | Confidence: 1.00
+
+239
+01:49:16,354 --> 01:49:16,814
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+240
+01:49:16,814 --> 01:49:21,934
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+241
+01:49:21,934 --> 01:49:23,574
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+242
+01:49:27,594 --> 01:49:28,994
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+243
+01:49:31,994 --> 01:49:33,394
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+244
+01:49:33,394 --> 01:49:35,214
+[REMOVED - Hallucination]
+Original: あ~~~~~
+Category: hallucination | Confidence: 1.00
+
+245
+01:49:35,214 --> 01:49:36,934
+[REMOVED - Hallucination]
+Original: あ~~~~~
+Category: hallucination | Confidence: 1.00
+
+246
+01:50:13,374 --> 01:50:14,134
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+247
+01:50:14,134 --> 01:50:15,434
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+248
+01:50:18,094 --> 01:50:19,494
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+249
+01:50:19,494 --> 01:50:21,214
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+250
+01:50:29,084 --> 01:50:30,484
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+251
+01:50:30,484 --> 01:50:31,724
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+252
+01:50:39,084 --> 01:50:39,784
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+253
+01:50:39,784 --> 01:50:42,744
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+254
+01:50:47,744 --> 01:50:49,084
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+255
+01:50:49,084 --> 01:50:52,764
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+256
+01:51:00,464 --> 01:51:01,684
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+257
+01:51:01,684 --> 01:51:03,204
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+258
+01:51:03,204 --> 01:51:03,824
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+259
+01:51:05,384 --> 01:51:07,304
+[REMOVED - Hallucination]
+Original: 気持ちいい
+Category: hallucination | Confidence: 1.00
+
+260
+01:51:07,304 --> 01:51:08,364
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+261
+01:51:08,364 --> 01:51:09,684
+[REMOVED - Hallucination]
+Original: おう
+Category: hallucination | Confidence: 1.00
+
+262
+01:51:09,684 --> 01:51:09,904
+[REMOVED - Hallucination]
+Original: おお
+Category: hallucination | Confidence: 1.00
+
+263
+01:51:09,904 --> 01:51:11,804
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+264
+01:51:11,804 --> 01:51:12,084
+[REMOVED - Hallucination]
+Original: アァ
+Category: hallucination | Confidence: 1.00
+
+265
+01:51:20,024 --> 01:51:22,464
+[REMOVED - Hallucination]
+Original: ハッ
+Category: hallucination | Confidence: 1.00
+
+266
+01:51:52,524 --> 01:51:53,924
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+267
+01:52:55,132 --> 01:52:58,152
+[MODIFIED - Single Char Whitespace Flood]
+Original: ああ ああ あー
+Modified: ああー
+Category: repetition_cleaning | Confidence: 0.99
+
+268
+01:52:55,132 --> 01:52:58,152
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: ああー
+Category: content_cleaning_cps | Confidence: 1.00
+
+269
+01:52:58,152 --> 01:53:01,592
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+270
+01:53:04,872 --> 01:53:06,432
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+271
+01:53:08,632 --> 01:53:09,332
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+272
+01:53:11,052 --> 01:53:12,452
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+273
+01:53:42,452 --> 01:53:44,452
+[REMOVED - Hallucination]
+Original: あーーー
+Category: hallucination | Confidence: 1.00
+
+274
+01:53:46,392 --> 01:53:48,982
+[REMOVED - Hallucination]
+Original: うぅ
+Category: hallucination | Confidence: 1.00
+
+275
+01:54:28,696 --> 01:54:29,056
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+276
+01:55:32,408 --> 01:55:32,848
+[REMOVED - Hallucination]
+Original: そうですね
+Category: hallucination | Confidence: 1.00
+
+277
+01:55:53,338 --> 01:55:53,898
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+278
+01:56:00,738 --> 01:56:01,318
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+279
+01:56:06,818 --> 01:56:07,218
+[REMOVED - Hallucination]
+Original: えー
+Category: hallucination | Confidence: 1.00
+
+280
+01:56:11,698 --> 01:56:12,338
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+281
+01:56:12,838 --> 01:56:13,238
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+282
+01:57:48,458 --> 01:57:49,358
+[REMOVED - Hallucination]
+Original: あの
+Category: hallucination | Confidence: 1.00
+
+283
+01:58:42,568 --> 01:58:43,968
+[REMOVED - Hallucination]
+Original: あ!
+Category: hallucination | Confidence: 1.00
+
+284
+01:59:34,478 --> 01:59:39,488
+[REMOVED - Abnormally Slow Cps 0.8]
+Original: 撮ってて
+Category: content_cleaning_cps | Confidence: 1.00
+
+285
+02:01:26,760 --> 02:01:27,540
+[REMOVED - Hallucination]
+Original: 寝たい?
+Category: hallucination | Confidence: 1.00
+
+286
+02:01:59,720 --> 02:02:06,120
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: ちょうどいい
+Modified: ちょうどいい
+Duration: 6.40s -> 0.86s
+Category: timing_adjustment | Confidence: 1.00
+
+287
+02:02:13,100 --> 02:02:15,240
+[REMOVED - Hallucination]
+Original: あ、あ
+Category: hallucination | Confidence: 1.00
+
+288
+02:02:16,740 --> 02:02:17,440
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+289
+02:02:17,440 --> 02:02:19,000
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+290
+02:02:23,040 --> 02:02:24,440
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+291
+02:02:29,900 --> 02:02:31,300
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+292
+02:02:31,300 --> 02:02:32,260
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+293
+02:03:13,060 --> 02:03:26,960
+[TIMING MODIFIED - Duration Hallucination]
+Original: そういうこと好きなんじゃないの
+Modified: そういうこと好きなんじゃないの
+Duration: 13.90s -> 2.14s
+Category: timing_adjustment | Confidence: 1.00
+
+294
+02:03:37,250 --> 02:03:38,430
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+295
+02:03:43,190 --> 02:03:50,630
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: なんなの?
+Modified: なんなの?
+Duration: 7.44s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+296
+02:04:12,874 --> 02:04:13,234
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+297
+02:04:14,974 --> 02:04:15,334
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+298
+02:04:18,334 --> 02:04:18,694
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+299
+02:04:19,834 --> 02:04:20,194
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+300
+02:04:21,114 --> 02:04:21,474
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+301
+02:04:21,474 --> 02:04:21,974
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+302
+02:04:23,114 --> 02:04:23,834
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+303
+02:04:28,954 --> 02:04:29,674
+[REMOVED - Hallucination]
+Original: アァ
+Category: hallucination | Confidence: 1.00
+
+304
+02:04:29,674 --> 02:04:30,074
+[REMOVED - Hallucination]
+Original: あ、あっ
+Category: hallucination | Confidence: 1.00
+
+305
+02:05:18,374 --> 02:05:27,304
+[REMOVED - Hallucination]
+Original: 気持ちいい?
+Category: hallucination | Confidence: 1.00
+
+306
+02:05:46,474 --> 02:05:47,174
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+307
+02:05:48,794 --> 02:05:49,494
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+308
+02:05:49,494 --> 02:05:51,594
+[REMOVED - Hallucination]
+Original: お
+Category: hallucination | Confidence: 1.00
+
+309
+02:05:51,594 --> 02:05:51,754
+[REMOVED - Hallucination]
+Original: おっ
+Category: hallucination | Confidence: 1.00
+
+310
+02:05:54,814 --> 02:05:56,214
+[REMOVED - Hallucination]
+Original: おお
+Category: hallucination | Confidence: 1.00
+
+311
+02:05:59,734 --> 02:06:02,014
+[REMOVED - Abnormally Slow Cps 0.9]
+Original: わっ
+Category: content_cleaning_cps | Confidence: 1.00
+
+312
+02:06:02,014 --> 02:06:02,954
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+313
+02:06:02,954 --> 02:06:14,424
+[REMOVED - Abnormally Slow Cps 0.3]
+Original: やられよ
+Category: content_cleaning_cps | Confidence: 1.00
+
+314
+02:06:14,524 --> 02:06:17,304
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+315
+02:06:18,244 --> 02:06:18,324
+[REMOVED - Hallucination]
+Original: あ、
+Category: hallucination | Confidence: 1.00
+
+316
+02:06:18,504 --> 02:06:19,124
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+317
+02:06:23,414 --> 02:06:24,194
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+318
+02:06:26,114 --> 02:06:26,514
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+319
+02:06:35,214 --> 02:06:35,994
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+320
+02:06:35,994 --> 02:06:36,934
+[REMOVED - Hallucination]
+Original: アッ
+Category: hallucination | Confidence: 1.00
+
+321
+02:06:41,884 --> 02:06:42,274
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+322
+02:06:42,274 --> 02:06:43,204
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+323
+02:06:44,404 --> 02:06:44,944
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+324
+02:06:45,924 --> 02:06:46,004
+[REMOVED - Abnormally Fast Cps 37.5]
+Original: お疲れ
+Category: content_cleaning_cps | Confidence: 1.00
+
+325
+02:06:47,584 --> 02:06:47,744
+[REMOVED - Hallucination]
+Original: ちょっと
+Category: hallucination | Confidence: 1.00
+
+326
+02:06:49,004 --> 02:06:50,064
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+327
+02:06:54,394 --> 02:06:54,784
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+328
+02:06:55,634 --> 02:06:56,024
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+329
+02:08:25,162 --> 02:08:39,682
+[TIMING MODIFIED - Duration Hallucination]
+Original: お腹が痛くなったら、水を飲み込んでください。
+Modified: お腹が痛くなったら、水を飲み込んでください。
+Duration: 14.52s -> 3.14s
+Category: timing_adjustment | Confidence: 1.00
+
+330
+02:08:52,822 --> 02:08:55,762
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: だめ
+Category: content_cleaning_cps | Confidence: 1.00
+
+331
+02:09:35,358 --> 02:09:35,938
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+332
+02:10:20,618 --> 02:10:29,248
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: こっち来て
+Modified: こっち来て
+Duration: 8.63s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+333
+02:12:51,482 --> 02:12:56,502
+[REMOVED - Abnormally Slow Cps 0.8]
+Original: お腹の音
+Category: content_cleaning_cps | Confidence: 1.00
+
+334
+02:13:09,272 --> 02:13:10,112
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+335
+02:13:11,152 --> 02:13:11,852
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+336
+02:13:16,432 --> 02:13:18,552
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+337
+02:13:25,702 --> 02:13:26,402
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+338
+02:14:25,352 --> 02:14:25,872
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+339
+02:15:05,018 --> 02:15:07,098
+[REMOVED - Hallucination]
+Original: あ、あ…
+Category: hallucination | Confidence: 1.00
+
+340
+02:16:05,608 --> 02:16:07,248
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+341
+02:16:10,448 --> 02:16:11,148
+[REMOVED - Hallucination]
+Original: う
+Category: hallucination | Confidence: 1.00
+
+342
+02:16:18,138 --> 02:16:19,538
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+343
+02:16:19,538 --> 02:16:19,558
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+344
+02:17:23,702 --> 02:17:23,862
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+345
+02:17:23,862 --> 02:17:25,882
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+346
+02:17:25,922 --> 02:17:29,822
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+347
+02:17:34,122 --> 02:17:35,522
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+348
+02:17:38,022 --> 02:17:40,822
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+349
+02:17:40,822 --> 02:17:41,022
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+350
+02:17:47,662 --> 02:17:49,062
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+351
+02:17:49,062 --> 02:17:50,782
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+352
+02:17:57,132 --> 02:17:58,532
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+353
+02:17:58,532 --> 02:17:59,632
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+354
+02:18:14,062 --> 02:18:15,742
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+355
+02:18:18,512 --> 02:18:19,912
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+356
+02:18:19,912 --> 02:18:20,032
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+357
+02:18:20,032 --> 02:18:21,612
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+358
+02:18:24,502 --> 02:18:25,402
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+359
+02:18:43,782 --> 02:18:45,042
+[REMOVED - Hallucination]
+Original: うぅ…
+Category: hallucination | Confidence: 1.00
+
+360
+02:18:46,552 --> 02:18:48,412
+[REMOVED - Hallucination]
+Original: あああ
+Category: hallucination | Confidence: 1.00
+
+361
+02:19:41,250 --> 02:19:41,670
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+362
+02:19:41,670 --> 02:19:41,870
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+363
+02:19:44,170 --> 02:19:45,010
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+364
+02:19:45,010 --> 02:19:47,880
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+365
+02:19:52,290 --> 02:19:53,130
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+366
+02:20:03,230 --> 02:20:14,150
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: ていました
+Modified: ていました
+Duration: 10.92s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+367
+02:20:20,260 --> 02:20:22,260
+[REMOVED - Hallucination]
+Original: んー
+Category: hallucination | Confidence: 1.00
+
+368
+02:20:26,060 --> 02:20:26,920
+[REMOVED - Hallucination]
+Original: ありがとうございます
+Category: hallucination | Confidence: 1.00
+
+369
+02:22:46,558 --> 02:22:47,658
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+370
+02:22:49,078 --> 02:22:50,358
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+371
+02:22:56,298 --> 02:22:56,998
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+372
+02:22:58,938 --> 02:23:00,658
+[REMOVED - Hallucination]
+Original: うぅ
+Category: hallucination | Confidence: 1.00
+
+373
+02:23:02,518 --> 02:23:03,918
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: 分
+Category: content_cleaning_cps | Confidence: 1.00
+
+374
+02:23:08,958 --> 02:23:09,178
+[REMOVED - Hallucination]
+Original: うん!
+Category: hallucination | Confidence: 1.00
+
+375
+02:23:11,858 --> 02:23:11,898
+[REMOVED - Abnormally Fast Cps 50.0]
+Original: まぁ
+Category: content_cleaning_cps | Confidence: 1.00
+
+376
+02:24:23,156 --> 02:24:27,556
+[REMOVED - Hallucination]
+Original: 【はじめしゃちょーエンディング】
+Category: context_caption | Confidence: 1.00
+
+377
+02:24:29,454 --> 02:24:31,334
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+378
+02:24:34,434 --> 02:24:35,134
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+379
+02:24:42,714 --> 02:24:43,414
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+380
+02:24:43,414 --> 02:24:44,494
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+381
+02:24:53,174 --> 02:24:53,874
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+382
+02:24:56,774 --> 02:24:57,474
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+383
+02:25:03,204 --> 02:25:03,684
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+384
+02:25:07,844 --> 02:25:08,544
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+385
+02:25:34,904 --> 02:25:36,844
+[REMOVED - Hallucination]
+Original: 【はじめしゃちょーエンディング】
+Category: context_caption | Confidence: 1.00
+
+386
+02:26:14,564 --> 02:26:15,824
+[REMOVED - Hallucination]
+Original: うぅん
+Category: hallucination | Confidence: 1.00
+
+387
+02:26:18,824 --> 02:26:25,194
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+388
+02:26:25,194 --> 02:26:25,474
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+389
+02:26:26,494 --> 02:26:27,234
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+390
+02:26:27,234 --> 02:26:27,494
+[REMOVED - Hallucination]
+Original: お
+Category: hallucination | Confidence: 1.00
+
+391
+02:26:27,494 --> 02:26:27,554
+[REMOVED - Hallucination]
+Original: ふー
+Category: hallucination | Confidence: 1.00
+
+392
+02:26:27,554 --> 02:26:31,514
+[REMOVED - Abnormally Slow Cps 0.8]
+Original: ぶーん
+Category: content_cleaning_cps | Confidence: 1.00
+
+393
+02:26:40,754 --> 02:26:41,674
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+394
+02:26:49,112 --> 02:26:49,752
+[REMOVED - Hallucination]
+Original: あ〜
+Category: hallucination | Confidence: 1.00
+
+395
+02:26:56,012 --> 02:26:59,092
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: すごい
+Category: content_cleaning_cps | Confidence: 1.00
+
+396
+02:27:00,832 --> 02:27:02,232
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+397
+02:27:05,932 --> 02:27:07,332
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+398
+02:27:34,162 --> 02:27:49,142
+[TIMING MODIFIED - Duration Hallucination]
+Original: あなたは何をしているのでしょう。
+Modified: あなたは何をしているのでしょう。
+Duration: 14.98s -> 2.29s
+Category: timing_adjustment | Confidence: 1.00
+
+399
+02:27:49,142 --> 02:27:49,262
+[REMOVED - Abnormally Fast Cps 166.7]
+Original: 私たちは今、彼女について話し合っています
+Category: content_cleaning_cps | Confidence: 1.00
+
+400
+02:27:53,802 --> 02:27:54,882
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+401
+02:28:01,852 --> 02:28:04,752
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+402
+02:28:04,752 --> 02:28:04,872
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+403
+02:28:07,052 --> 02:28:07,752
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+404
+02:28:28,954 --> 02:28:30,354
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+405
+02:28:33,214 --> 02:28:34,614
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+406
+02:28:49,434 --> 02:28:50,834
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+407
+02:28:50,834 --> 02:28:51,654
+[REMOVED - Hallucination]
+Original: あ、あ?
+Category: hallucination | Confidence: 1.00
+
+408
+02:28:54,294 --> 02:29:18,184
+[TIMING MODIFIED - Duration Hallucination]
+Original: 終わったー
+Modified: 終わったー
+Duration: 23.89s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+409
+02:29:27,494 --> 02:29:30,214
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: 私も
+Category: content_cleaning_cps | Confidence: 1.00
+
+410
+02:30:07,772 --> 02:30:07,892
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+411
+02:30:07,892 --> 02:30:10,192
+[REMOVED - Hallucination]
+Original: うーっ
+Category: hallucination | Confidence: 1.00
+
+412
+02:30:11,612 --> 02:30:12,312
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+413
+02:30:12,312 --> 02:30:16,382
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: あった
+Category: content_cleaning_cps | Confidence: 1.00
+
+414
+02:30:16,382 --> 02:30:17,462
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+415
+02:30:21,782 --> 02:30:23,182
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+416
+02:30:57,332 --> 02:31:00,132
+[REMOVED - Hallucination]
+Original: えええ
+Category: hallucination | Confidence: 1.00
+
+417
+02:31:45,182 --> 02:31:46,642
+[TIMING MODIFIED - Substantial Content Change]
+Original: ああ ああ あー きょん
+Modified: ああー きょん
+Duration: 1.46s -> 1.00s
+Category: timing_adjustment | Confidence: 1.00
+
+418
+02:31:45,182 --> 02:31:46,642
+[MODIFIED - Single Char Whitespace Flood]
+Original: ああ ああ あー きょん
+Modified: ああー きょん
+Category: repetition_cleaning | Confidence: 0.99
+
+419
+02:31:46,642 --> 02:31:56,492
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: うめちゃん
+Modified: うめちゃん
+Duration: 9.85s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+420
+02:32:17,142 --> 02:32:17,782
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+421
+02:32:20,402 --> 02:32:21,802
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+422
+02:32:25,502 --> 02:32:26,922
+[REMOVED - Hallucination]
+Original: えー
+Category: hallucination | Confidence: 1.00
+
+423
+02:32:26,922 --> 02:32:28,202
+[REMOVED - Hallucination]
+Original: うー
+Category: hallucination | Confidence: 1.00
+
+424
+02:32:35,272 --> 02:32:36,672
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+425
+02:34:10,964 --> 02:34:15,084
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+426
+02:34:25,894 --> 02:34:26,174
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+427
+02:34:26,174 --> 02:34:26,234
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+428
+02:34:26,234 --> 02:34:33,654
+[REMOVED - Abnormally Slow Cps 0.4]
+Original: はやい
+Category: content_cleaning_cps | Confidence: 1.00
+
+429
+02:34:33,654 --> 02:34:34,574
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+430
+02:38:40,380 --> 02:38:41,840
+[REMOVED - Hallucination]
+Original: えー
+Category: hallucination | Confidence: 1.00
+
+431
+02:38:42,140 --> 02:38:42,840
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+432
+02:38:47,910 --> 02:38:50,010
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+433
+02:38:52,530 --> 02:38:53,930
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+434
+02:38:53,930 --> 02:38:54,890
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+435
+02:39:01,900 --> 02:39:03,300
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+436
+02:39:03,300 --> 02:39:07,980
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+437
+02:39:55,710 --> 02:39:57,350
+[REMOVED - Hallucination]
+Original: あ゛っ
+Category: hallucination | Confidence: 1.00
+
+438
+02:40:00,180 --> 02:40:00,720
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+439
+02:40:04,760 --> 02:40:05,320
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+440
+02:40:06,680 --> 02:40:08,620
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+441
+02:40:08,620 --> 02:40:08,640
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+442
+02:40:08,760 --> 02:40:09,320
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+443
+02:40:12,780 --> 02:40:13,340
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+444
+02:40:16,400 --> 02:40:16,960
+[REMOVED - Hallucination]
+Original: ふふ
+Category: hallucination | Confidence: 1.00
+
+445
+02:40:20,030 --> 02:40:20,470
+[REMOVED - Hallucination]
+Original: おお
+Category: hallucination | Confidence: 1.00
+
+446
+02:40:20,470 --> 02:40:21,270
+[REMOVED - Hallucination]
+Original: あっ
+Category: hallucination | Confidence: 1.00
+
+447
+02:40:23,440 --> 02:40:24,000
+[REMOVED - Hallucination]
+Original: おっ
+Category: hallucination | Confidence: 1.00
+
+448
+02:40:27,930 --> 02:40:28,490
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+449
+02:40:30,660 --> 02:40:31,780
+[REMOVED - Hallucination]
+Original: アァ
+Category: hallucination | Confidence: 1.00
+
+450
+02:40:33,230 --> 02:40:33,850
+[REMOVED - Hallucination]
+Original: パ
+Category: hallucination | Confidence: 1.00
+
+451
+02:40:40,330 --> 02:40:41,350
+[REMOVED - Abnormally Slow Cps 1.0]
+Original: ホ
+Category: content_cleaning_cps | Confidence: 1.00
+
+452
+02:40:41,350 --> 02:40:41,910
+[REMOVED - Hallucination]
+Original: ハ
+Category: hallucination | Confidence: 1.00
+
+453
+02:40:48,710 --> 02:40:48,770
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+454
+02:40:53,070 --> 02:40:55,850
+[REMOVED - Hallucination]
+Original: えー
+Category: hallucination | Confidence: 1.00
+
+455
+02:40:55,850 --> 02:40:58,290
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+456
+02:41:04,020 --> 02:41:05,420
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+457
+02:41:08,280 --> 02:41:09,680
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+458
+02:41:09,680 --> 02:41:10,140
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+459
+02:41:15,286 --> 02:41:20,686
+[MODIFIED - Single Char Whitespace Flood]
+Original: ああ ああ あー
+Modified: ああー
+Category: repetition_cleaning | Confidence: 0.99
+
+460
+02:41:15,286 --> 02:41:20,686
+[REMOVED - Abnormally Slow Cps 0.6]
+Original: ああー
+Category: content_cleaning_cps | Confidence: 1.00
+
+461
+02:41:20,686 --> 02:41:22,286
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+462
+02:41:24,846 --> 02:41:26,406
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+463
+02:41:26,406 --> 02:41:29,606
+[REMOVED - Hallucination]
+Original: ああ ああ
+Category: hallucination | Confidence: 1.00
+
+464
+02:41:32,426 --> 02:41:33,706
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+465
+02:41:33,706 --> 02:41:39,346
+[TIMING MODIFIED - Abnormally Slow Cps]
+Original: うっ うー
+Modified: うっ うー
+Duration: 5.64s -> 0.71s
+Category: timing_adjustment | Confidence: 1.00
+
+466
+02:41:40,406 --> 02:41:43,406
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+467
+02:41:53,086 --> 02:41:55,306
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+468
+02:41:55,306 --> 02:41:55,326
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+469
+02:42:01,726 --> 02:42:02,966
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+470
+02:42:37,246 --> 02:42:39,546
+[REMOVED - Hallucination]
+Original: はぁ
+Category: hallucination | Confidence: 1.00
+
+471
+02:42:53,346 --> 02:42:54,046
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+472
+02:42:54,586 --> 02:42:55,606
+[REMOVED - Hallucination]
+Original: あー
+Category: hallucination | Confidence: 1.00
+
+473
+02:42:58,586 --> 02:42:59,826
+[REMOVED - Hallucination]
+Original: あぁ
+Category: hallucination | Confidence: 1.00
+
+474
+02:43:02,406 --> 02:43:04,886
+[REMOVED - Hallucination]
+Original: はー
+Category: hallucination | Confidence: 1.00
+
+475
+02:43:04,886 --> 02:43:05,546
+[REMOVED - Hallucination]
+Original: ん
+Category: hallucination | Confidence: 1.00
+
+476
+02:43:07,106 --> 02:43:08,206
+[REMOVED - Hallucination]
+Original: はっ
+Category: hallucination | Confidence: 1.00
+
+477
+02:43:08,206 --> 02:43:09,566
+[REMOVED - Hallucination]
+Original: me
+Category: nonsensical | Confidence: 0.85
+
+478
+02:44:15,584 --> 02:44:38,024
+[TIMING MODIFIED - Duration Hallucination]
+Original: あれ、斉藤さんどうしたんですか
+Modified: あれ、斉藤さんどうしたんですか
+Duration: 22.44s -> 2.14s
+Category: timing_adjustment | Confidence: 1.00
+
+479
+02:45:10,404 --> 02:45:10,844
+[REMOVED - Hallucination]
+Original: うーん
+Category: hallucination | Confidence: 1.00
+
+480
+02:45:20,304 --> 02:45:20,704
+[REMOVED - Hallucination]
+Original: はい?
+Category: hallucination | Confidence: 1.00
+
+481
+02:45:40,684 --> 02:45:41,344
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+482
+02:45:46,884 --> 02:45:47,244
+[REMOVED - Hallucination]
+Original: ああ
+Category: hallucination | Confidence: 1.00
+
+483
+02:45:49,664 --> 02:45:50,024
+[REMOVED - Hallucination]
+Original: あ
+Category: hallucination | Confidence: 1.00
+
+484
+02:46:03,044 --> 02:46:03,404
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+485
+02:46:03,404 --> 02:46:03,484
+[REMOVED - Hallucination]
+Original: はい!
+Category: hallucination | Confidence: 1.00
+
+486
+02:46:03,864 --> 02:46:04,424
+[REMOVED - Hallucination]
+Original: はい!!
+Category: hallucination | Confidence: 1.00
+
+487
+02:46:15,584 --> 02:46:16,004
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+488
+02:46:21,694 --> 02:46:22,134
+[REMOVED - Hallucination]
+Original: あの
+Category: hallucination | Confidence: 1.00
+
+489
+02:46:22,834 --> 02:46:23,274
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+
+490
+02:46:50,554 --> 02:46:51,674
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+491
+02:48:07,968 --> 02:48:08,768
+[REMOVED - Hallucination]
+Original: お…
+Category: hallucination | Confidence: 1.00
+
+492
+02:48:16,008 --> 02:48:16,428
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+493
+02:48:42,528 --> 02:48:42,928
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+494
+02:48:43,388 --> 02:48:43,708
+[REMOVED - Hallucination]
+Original: ええ
+Category: hallucination | Confidence: 1.00
+
+495
+02:50:25,518 --> 02:50:39,238
+[TIMING MODIFIED - Duration Hallucination]
+Original: じゃあ、王様が一番とキスをする。
+Modified: じゃあ、王様が一番とキスをする。
+Duration: 13.72s -> 2.29s
+Category: timing_adjustment | Confidence: 1.00
+
+496
+02:50:42,878 --> 02:50:43,298
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+497
+02:50:50,198 --> 02:50:51,398
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+498
+02:50:56,218 --> 02:50:56,998
+[REMOVED - Hallucination]
+Original: えぇ
+Category: hallucination | Confidence: 1.00
+
+499
+02:50:56,998 --> 02:50:57,458
+[REMOVED - Hallucination]
+Original: え?
+Category: hallucination | Confidence: 1.00
+
+500
+02:51:03,728 --> 02:51:04,688
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+501
+02:52:03,908 --> 02:52:04,408
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+502
+02:52:06,808 --> 02:52:07,308
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+503
+02:52:35,538 --> 02:52:36,998
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+504
+02:55:01,114 --> 02:55:01,854
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+505
+02:56:07,434 --> 02:56:10,794
+[REMOVED - Abnormally Slow Cps 0.9]
+Original: 王様が
+Category: content_cleaning_cps | Confidence: 1.00
+
+506
+02:56:46,864 --> 02:56:47,324
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+507
+02:57:19,106 --> 02:57:25,586
+[REMOVED - Abnormally Slow Cps 0.5]
+Original: 次は?
+Category: content_cleaning_cps | Confidence: 1.00
+
+508
+02:57:41,686 --> 02:57:46,726
+[REMOVED - Abnormally Slow Cps 0.6]
+Original: 終わり
+Category: content_cleaning_cps | Confidence: 1.00
+
+509
+02:58:00,846 --> 02:58:02,246
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: 何
+Category: content_cleaning_cps | Confidence: 1.00
+
+510
+02:58:11,806 --> 02:58:15,926
+[REMOVED - Abnormally Slow Cps 0.7]
+Original: 一番が
+Category: content_cleaning_cps | Confidence: 1.00
+
+511
+02:58:16,406 --> 02:58:16,746
+[REMOVED - Hallucination]
+Original: うん
+Category: hallucination | Confidence: 1.00
+
+512
+02:58:26,006 --> 02:58:27,286
+[REMOVED - Hallucination]
+Original: あ…
+Category: hallucination | Confidence: 1.00
+
+513
+02:58:28,576 --> 02:58:29,276
+[REMOVED - Hallucination]
+Original: おぉ
+Category: hallucination | Confidence: 1.00
+
+514
+02:58:37,696 --> 02:58:37,956
+[REMOVED - Hallucination]
+Original: はい
+Category: hallucination | Confidence: 1.00
+
+515
+02:58:38,976 --> 02:58:39,616
+[REMOVED - Hallucination]
+Original: え
+Category: hallucination | Confidence: 1.00
+

@@ -1,0 +1,62 @@
+{
+  "whisperjav_version": "1.9.5",
+  "mode": "balanced",
+  "started_at": "2026-11-23T19:04:49",
+  "finished_at": "2026-11-23T19:34:22",
+  "exit_status": 0,
+  "fails_on": [
+    "failed"
+  ],
+  "note": null,
+  "counts": {
+    "done": 3,
+    "empty": 0,
+    "suspect": 0,
+    "failed": 0,
+    "skipped": 0
+  },
+  "files": [
+    {
+      "path": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part01.mp3",
+      "state": "done",
+      "detail": "1670 cue(s) spanning 100.0% of the file",
+      "output": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part01.ja.whisperjav.srt",
+      "translated_output": null,
+      "subtitle_count": 1670,
+      "coverage": "ok",
+      "coverage_ratio": 0.9998774834074714,
+      "coverage_detail": "1670 cue(s) spanning 100.0% of the file",
+      "translation": "not requested",
+      "error": null,
+      "processing_time_s": 864.33
+    },
+    {
+      "path": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part02.mp3",
+      "state": "done",
+      "detail": "1918 cue(s) spanning 99.8% of the file",
+      "output": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part02.ja.whisperjav.srt",
+      "translated_output": null,
+      "subtitle_count": 1918,
+      "coverage": "ok",
+      "coverage_ratio": 0.9981243484720264,
+      "coverage_detail": "1918 cue(s) spanning 99.8% of the file",
+      "translation": "not requested",
+      "error": null,
+      "processing_time_s": 846.86
+    },
+    {
+      "path": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part03.mp3",
+      "state": "done",
+      "detail": "91 cue(s) spanning 99.7% of the file",
+      "output": "/content/drive/MyDrive/WhisperJAV/HUNTA-010 - Lulustream.part03.ja.whisperjav.srt",
+      "translated_output": null,
+      "subtitle_count": 91,
+      "coverage": "ok",
+      "coverage_ratio": 0.9965660158708687,
+      "coverage_detail": "91 cue(s) spanning 99.7% of the file",
+      "translation": "not requested",
+      "error": null,
+      "processing_time_s": 61.23
+    }
+  ]
+}
