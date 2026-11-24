@@ -1,0 +1,34 @@
+{
+  "whisperjav_version": "1.9.5",
+  "mode": "balanced",
+  "started_at": "2026-11-24T20:11:43",
+  "finished_at": "2026-11-24T20:26:23",
+  "exit_status": 0,
+  "fails_on": [
+    "failed"
+  ],
+  "note": null,
+  "counts": {
+    "done": 1,
+    "empty": 0,
+    "suspect": 0,
+    "failed": 0,
+    "skipped": 0
+  },
+  "files": [
+    {
+      "path": "/content/drive/MyDrive/WhisperJAV/RCT-915.m4a",
+      "state": "done",
+      "detail": "1720 cue(s) spanning 99.8% of the file",
+      "output": "/content/drive/MyDrive/WhisperJAV/RCT-915.ja.whisperjav.srt",
+      "translated_output": null,
+      "subtitle_count": 1720,
+      "coverage": "ok",
+      "coverage_ratio": 0.9983819664452945,
+      "coverage_detail": "1720 cue(s) spanning 99.8% of the file",
+      "translation": "not requested",
+      "error": null,
+      "processing_time_s": 879.02
+    }
+  ]
+}
